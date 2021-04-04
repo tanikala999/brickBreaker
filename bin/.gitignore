@@ -1,0 +1,9 @@
+# IntelliJ IDEA and Gradle files #
+.idea/
+.gradle/
+*.iml
+
+# Other files #
+*.log
+*.log.*
+.project
